@@ -1,4 +1,4 @@
 # My_TRYHACKME_CERTIFICATES
-Here are the certificates that prove my education of IT from TryHackMe
+Here are the certificates that prove my education of IT from TryHackMe  
 ** NOTE THAT ONLY EMPLOYERS CAN CHOOSE TO SEE THE ORIGINAL CERTIFICATIONS AT THE TIME OF INTERVIEW **  
 ** ONLY A PREVIEW OF CERTIFICATIONS ARE UPLOADED HERE **
